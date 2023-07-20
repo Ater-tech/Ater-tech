@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Ater-tech
 - 👀 I’m interested in programming
-- 🌱 I’m currently learning Python(Kivy) and CPP(OOP) and JavaScript(Tutorials) 
+- 🌱 I’m currently learning Python(telegram-bot, instapy and other library) and CPP(OOP) and JavaScript(Tutorials). Also I want learn app devloping  
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
